@@ -1,4 +1,4 @@
-<h1> <sub><samp>Sankalpa Acharya (Sanku) </samp></sub> </h1>
+<sub><samp>Sankalpa Acharya (Sanku) </samp></sub>
 
 Just a guy who loves building things and sharing 🐍
 
