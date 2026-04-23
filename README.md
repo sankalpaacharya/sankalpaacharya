@@ -13,7 +13,7 @@ Hey, I'm sanku always excited about web development and web security!
 <br/>
 
 
-Read my blogs on React⚛️
+Read my blogs on React ⚛️ (Picked up by [thisweekreact](https://thisweekinreact.com/) and [bytes.dev](https://bytes.dev/))
 - [How React streams UI out of order and still manages to keep order](https://inside-react.vercel.app/blog/how-react-streams-ui-out-of-order)
 - [Why frontend frameworks need hydration](https://inside-react.vercel.app/blog/why-frontend-frameworks-need-hydration)
 - [How Does React Fiber Render Your UI](https://inside-react.vercel.app/blog/how-does-react-fiber-render-your-ui)
