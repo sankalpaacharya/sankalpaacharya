@@ -3,7 +3,7 @@ Hey, I'm sanku always excited about web development and web security!
 
 
 - Open for new opportunity - [hire me](https://inside-react.vercel.app/hire-me)
-- I love Reactjs and working with react
+- I love Reactjs and working with react ⚛️
 - Sometimes I solve CTF's on [tryhackme](https://tryhackme.com/p/SankalpaAcharya) and [picoCTF](https://play.picoctf.org/)
 <br/>
 
