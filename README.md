@@ -27,7 +27,7 @@ Security Findings
 
 <br/>
 
-Others
+Others 🛸
 - [coolest portfolio I've ever made](https://www.sankalpa.info.np/)
 
 <img width="1879" height="202" alt="image" src="https://github.com/user-attachments/assets/d41a6ea2-e07f-4581-b2e4-7d57f0d20d78" />
