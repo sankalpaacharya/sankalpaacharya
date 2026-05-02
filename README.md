@@ -6,7 +6,7 @@ Hey, I'm sanku always excited about web development and web security!
 
 
 - Open for new opportunity - [hire me](https://hireme.sankalpa.info.np/)
-- I love [Reactjs](https://react.dev/) ⚛️ and big fan of [TanStack](https://tanstack.com/) ❤️
+- I love [Reactjs](https://react.dev/) ⚛️ ❤️
 - Sometimes I solve CTF's on [tryhackme](https://tryhackme.com/p/SankalpaAcharya) and [picoCTF](https://play.picoctf.org/)
 - Maintaining [gaia](https://heygaia.io) by [theexperiencecompany](github.com/theexperiencecompany)
   
